@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Acer\Desktop\qKey\sound\main.cpp(136,1): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  sound.vcxproj -> C:\Users\Acer\Desktop\qKey\x64\Debug\sound.exe
